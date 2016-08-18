@@ -1,24 +1,6 @@
-# README
+# JpegCamera demo Rails app
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+This is a demo app showing how to use [JpegCamera](https://github.com/amw/jpeg_camera)
+inside a Rails app. This repository will always contain exactly two commits. The first one
+setting up a fresh Rails app and the second adding JpegCamera integration that mimics
+functionality of [JpegCamera demo page](https://amw.github.io/jpeg_camera/demo/).
